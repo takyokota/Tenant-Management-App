@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Handle Front Controller
+RewriteRule . index.php
